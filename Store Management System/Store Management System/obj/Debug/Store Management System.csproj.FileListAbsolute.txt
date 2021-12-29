@@ -1,0 +1,20 @@
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\bin\Debug\Store Management System.exe.config
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\bin\Debug\Store Management System.exe
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\bin\Debug\Store Management System.pdb
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Employee.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Properties.Resources.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store Management System.csproj.GenerateResource.cache
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store Management System.csproj.CoreCompileInputs.cache
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store Management System.exe
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store Management System.pdb
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store Management System.csproj.AssemblyReference.cache
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Login.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Product.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Mainpage.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Expenses.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Customers.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Sales.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Staff.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Add_User.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Change_Password.resources
+C:\Users\HADLIYE\source\repos\Store Management System\Store Management System\obj\Debug\Store_Management_System.Delete_User.resources
